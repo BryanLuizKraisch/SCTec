@@ -1,0 +1,9 @@
+p ~ a {
+  font-weight: bold;
+  color: rgb(181, 181, 209);
+  font-size: xx-large;
+}
+p > a {
+  font-weight: bold;
+  color: crimson;
+}
