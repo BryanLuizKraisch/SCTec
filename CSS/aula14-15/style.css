@@ -1,0 +1,29 @@
+.container {
+  background-color: #2ace14;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+  height: 500px;
+  width: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  flex-wrap: wrap;
+  align-content: stretch;
+}
+
+.box {
+  height: 55px;
+  width: 55px;
+  border: 3px solid black;
+  border-radius: 3px;
+}
+
+#box1 {
+  background-color: #ff0000;
+}
+#box2 {
+  background-color: #ff00ee81;
+}
+#box3 {
+  background-color: #0000ff;
+}
